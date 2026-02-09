@@ -4,7 +4,8 @@ position: 1
 date: 2025-10-13
 ---
 
-## Introducción a la Ciencia de Datos: Una Explicación Simple y Detallada
+## Introducción a la Ciencia de Datos
+
 
 +++admonition
 ---
